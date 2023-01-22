@@ -1,2 +1,3 @@
 # Processor-8051
-Installers need to be find on internet\
+Symulacja uproszczonej wersji processora 8051 z podstawowymi komendami w asemblerze
+Installery trzeba znaleść na internecie do programu logisim-evolution
